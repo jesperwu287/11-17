@@ -8,10 +8,7 @@ import Admonition from '@theme/Admonition';
 const PAPER_URL = '/paper/zombie';
  
 const takeaways = [
-  'Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised as science-fiction. \
- He died in 1981, almost twenty years after he made Dwayne Hoover so sick. He was by then recognized as a great artist and scientist. \
- The American Academy of Arts and Sciences caused a monument to be erected over his ashes. Carved in its face was a quotation from \
- his last novel, his two-hundred-and-ninth novel, which was unfinished when he died. The monument looked like this:'
+  'Kilgore Trout died in 1981. So it goes.'
 ];
  
 export default function Home() {
@@ -28,9 +25,7 @@ export default function Home() {
         </Link>
  
         <div className="byline">
-          <span><strong>Kenneth Smith</strong><br/>UC Santa Barbara</span>
-          <span><strong>J. M. Forester</strong><br/>Zombie Biology Institute</span>
-          <span><strong>Jim McHiggleteeth</strong><br/>Zombie Biology Institute</span>
+          <span><strong>Jesper Wu</strong><br/>UC Santa Barbara</span>
         </div><br />
         <Admonition type="note" title="Key Takeaways">
           <ul>
