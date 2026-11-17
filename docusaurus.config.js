@@ -1,8 +1,8 @@
 // @ts-check
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '107T Research Series',
-  tagline: 'Papers on issues of interest to Isla Vista residents',
+  title: 'Vonnegut Research Series',
+  tagline: 'Papers on issues of interest to Vonnegut Research',
   favicon: 'img/palm.svg',
 
   future: {},
@@ -47,7 +47,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: '107T White Paper Series',
+        title: 'Vonnegut Research Series',
         logo: {
           alt: 'Series mark',
           src: 'img/palm.svg',
