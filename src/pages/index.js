@@ -8,9 +8,10 @@ import Admonition from '@theme/Admonition';
 const PAPER_URL = '/paper/zombie';
  
 const takeaways = [
-  'Zombies are real. All the biological evidence points to their existence.',
-  'Our survey indicates that some Isla Vista residents are ill-prepared to face a zombie apocalypse.',
-  'Isla Vista needs to increase the purchase of small munitions and build a perimeter wall to protect our residents.',
+  'Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised as science-fiction. \
+ He died in 1981, almost twenty years after he made Dwayne Hoover so sick. He was by then recognized as a great artist and scientist. \
+ The American Academy of Arts and Sciences caused a monument to be erected over his ashes. Carved in its face was a quotation from \
+ his last novel, his two-hundred-and-ninth novel, which was unfinished when he died. The monument looked like this:'
 ];
  
 export default function Home() {
