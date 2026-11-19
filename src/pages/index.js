@@ -25,7 +25,7 @@ export default function Home() {
         </Link>
  
         <div className="byline">
-          <span><strong>Jesper Wu</strong><br/>UC Santa Barbara</span>
+          <span><strong>'Jesper Wu'</strong><br/>'UC Santa Barbara'</span>
         </div><br />
         <Admonition type="note" title="Key Takeaways">
           <ul>
