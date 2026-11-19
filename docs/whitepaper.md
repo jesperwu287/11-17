@@ -6,6 +6,8 @@ hide_table_of_contents: true
 description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results."
 ---
 
+![cool picture](/img/sus.jpg)
+
 ## 1. Kurt Vonnegut’s Breakfast of Champions {#Kurt Vonnegut’s Breakfast of Champions}
 
 Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
