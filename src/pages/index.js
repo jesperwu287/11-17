@@ -20,7 +20,7 @@ export default function Home() {
       <main className={styles.page}>
         <Link to={PAPER_URL} className={styles.titleLink}>
           <h1 className={styles.title}>
-            Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
+            hahuahdauhuaha
           </h1>
         </Link>
  
