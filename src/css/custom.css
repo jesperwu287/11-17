@@ -54,7 +54,7 @@
 /* Docusaurus allows you to automatically switch to dark mode, so all the nerds can read in their preferred color scheme. This sets the colors for all these elements. */
  
 [data-theme='dark'] {
-  --paper-ink: #e3e3e3;
+  --paper-ink: #EF38F9;
   --paper-muted: #a8abb0;
   --paper-rule: #3a3b3d;
   --paper-inset: #2a2b2d;
